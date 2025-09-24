@@ -1,20 +1,20 @@
 export const personalInfo = {
-  name: "Lorem Ipsum",
-  location: "Dolor Sit Amet",
-  email: "lorem@ipsum.com",
-  github: "https://github.com/loremipsum",
-  linkedin: "https://linkedin.com/in/loremipsum",
-  profilePicture: "/profile.jpeg",
+  name: "Barath Stalin K",
+  location: "Chennai",
+  email: "New@gmail.com",
+  github: "https://github.com/barathstalin6",
+  linkedin: "https://linkedin.com/in/barathstalin",
+  profilePicture: "/profile.jpg",
   heroDescription:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-};
+    "I am a Security Engineer at Zoho Payments with 1+ year of professional experience in product and application security. My work focuses on vulnerability research, penetration testing, and security automation, and I have been credited with multiple CVEs for responsibly disclosed findings. I am passionate about bug hunting, secure software development, and building automation tools that enhance security testing and reduce risks. Beyond work, I actively contribute to the security community through continuous learning and responsible disclosures.",
+};;
 
 export const workExperience = [
   {
-    company: "Lorem Ipsum Corp",
-    location: "Lorem City",
-    position: "Lorem Engineer",
-    period: "Jan 2020 - Present",
+    company: "Zoho Payments",
+    location: "Chennai",
+    position: "Security Engineer",
+    period: "May 2024 - Present",
     achievements: [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -26,20 +26,20 @@ export const workExperience = [
     ],
   },
   {
-    company: "Dolor Sit Amet",
-    location: "Ipsumville",
-    position: "Software Developer",
-    period: "Feb 2019 - Jan 2020",
+    company: "Zoho Corp",
+    location: "Chennai",
+    position: "Security Engineer - Intern",
+    period: "July 2023 - May 2024",
     achievements: [
       "Morbi in sem quis dui placerat ornare.",
       "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
     ],
   },
   {
-    company: "Consectetur Inc.",
-    location: "Adipiscing, Ipsum",
-    position: "Intern",
-    period: "Jun 2018 - Feb 2019",
+    company: "Gofrugal Technologies",
+    location: "Chennai",
+    position: "Security Analyst - Intern",
+    period: "Oct 2021 - Jun 2023",
     achievements: [
       "Praesent dapibus, neque id cursus faucibus.",
       "Fusce feugiat malesuada odio.",
@@ -49,10 +49,10 @@ export const workExperience = [
 
 export const education = [
   {
-    institution: "Lorem Ipsum University",
-    location: "Lorem City",
-    degree: "BSc Lorem Ipsum",
-    period: "2015 - 2019",
+    institution: "Anna University - Alagappa Chettiar Government College of Engineering & Technology.",
+    location: "Karaikudi",
+    degree: "B.E Computer Science",
+    period: "2020- 2024",
     achievements: [
       "President of Lorem Ipsum Club",
       "Organized multiple lorem events",
@@ -63,12 +63,9 @@ export const education = [
 ];
 export const skills = {
   programmingLanguages: [
-    "LoremLang",
-    "IpsumScript",
-    "DolorLang",
-    "SitLang",
-    "AmetLang",
-    "ConsecteturLang",
+    "Python",
+    "Bash",
+    "Java",
   ],
   frontendDevelopment: [
     "LoremJS",
@@ -81,7 +78,7 @@ export const skills = {
   ],
   backendDevelopment: ["LoremNode", "IpsumExpress"],
   databaseAndStorage: ["LoremDB", "IpsumORM"],
-  cloudAndDevOps: ["LoremCloud"],
+  cloudAndDevOps: ["AWS"],
   toolsAndServices: [
     "LoremAuth",
     "IpsumCMS",
