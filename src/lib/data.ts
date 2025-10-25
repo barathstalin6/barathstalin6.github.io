@@ -1,7 +1,7 @@
 export const personalInfo = {
   name: "Barath Stalin K",
   location: "Chennai",
-  email: "severustalin@yandex.com",
+  email: "stalin.severus@yandex.com",
   github: "https://hackerone.com/severusstalin?type=user",
   linkedin: "https://linkedin.com/in/barathstalin",
   profilePicture: "/profile.jpg",
