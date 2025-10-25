@@ -2,11 +2,11 @@ export const personalInfo = {
   name: "Barath Stalin K",
   location: "Chennai",
   email: "severustalin@yandex.com",
-  github: "https://github.com/barathstalin6",
+  github: "https://hackerone.com/severusstalin?type=user",
   linkedin: "https://linkedin.com/in/barathstalin",
   profilePicture: "/profile.jpg",
   heroDescription:
-    "I am a Security Engineer at Zoho Payments with 1+ year of professional experience in product and application security. My work focuses on vulnerability research, penetration testing, and security automation, and I have been credited with multiple CVEs for responsibly disclosed findings. I am passionate about bug hunting, secure software development, and building automation tools that enhance security testing and reduce risks. Beyond work, I actively contribute to the security community through continuous learning and responsible disclosures.",
+  "I’m Barath Stalin, a passionate Information Security Engineer with a strong focus on Product Security, Vulnerability Assessment, and Secure SDLC implementation. Over the past 3+ years, I’ve worked across FinTech, POS, and SaaS environments helping organizations strengthen their security posture, automate assessments, and align with global compliance standards like PCI DSS, RBI, ISO 27001, and NPCI. I’m passionate about uncovering critical vulnerabilities, architecting proactive defenses, and empowering developers to build securely from the start. For me, security isn’t just a checklist it’s about fostering trust, resilience, and awareness across every layer of technology. In my free time, I engage in bug bounty programs, discovering impactful security flaws in products from leading organizations.",
 };;
 
 export const workExperience = [
@@ -16,13 +16,12 @@ export const workExperience = [
     position: "Security Engineer",
     period: "May 2024 - Present",
     achievements: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
-      "Excepteur sint occaecat cupidatat non proident.",
-      "Sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio.",
+      " - Strengthened application security through SAST, DAST, VAPT and Segmentation implementations.",
+      " - Coordinated with Compliance, Application, and Infrastructure teams to achieve alignment with RBI, PCI DSS, and ISO 27001 standards.",
+      " - Built the company’s Bug Bounty Program, managing submissions and triage with the internal security team.",
+      " - Coordinated with SOC and Infra teams to optimize alert rules, reduce false positives, and improve visibility.",
+      " - Managed SOC operations and endpoint monitoring with CrowdStrike,Forcepoint ensuring continuous threat visibility.",
+      " - Conducted vendor and merchant risk assessments using OSINT, assisting Risk Analysts in identifying potential compromise.",
     ],
   },
   {
@@ -31,8 +30,10 @@ export const workExperience = [
     position: "Security Engineer - Intern",
     period: "July 2023 - May 2024",
     achievements: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
+      " - Implemented Secure SDLC and launched a monthly Secure Coding Series for engineering teams.",
+      " - Integrated AI-based automation to enhance vulnerability research, trend analysis, and proactive threat detection.",
+      " - Led phishing simulation drills and improved security culture across the organization.",
+
     ],
   },
   {
@@ -41,8 +42,9 @@ export const workExperience = [
     position: "Security Analyst - Intern",
     period: "Oct 2021 - Jun 2023",
     achievements: [
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
+      " - Automated Tenable vulnerability reports using Python to export, de-duplicate, and structure data for clarity.",
+      " - Conducted in-depth Vulnerability Assessments and Product Security Testing for POS and e-commerce platforms.",
+      " - Discovered and mitigated 500+ high and critical vulnerabilities, including zero-click account takeovers.",
     ],
   },
 ];
@@ -50,7 +52,6 @@ export const workExperience = [
 export const education = [
   {
     institution: "Anna University - Alagappa Chettiar Government College of Engineering & Technology.",
-    location: "Karaikudi",
     degree: "B.E Computer Science",
     period: "2020- 2024",
   },
@@ -80,52 +81,13 @@ export const skills = {
 
 export const awards = [
   {
-    name: "Lorem Ipsum Award",
-    issuer: "Lorem Organization",
-    date: "Jan 2020",
-    type: "International",
-    position: "First Place",
+    name: "CVEs",
+    issuer: "Microsoft",
+    date: "CVE-2025-29796, CVE-2025-47964 ,    CVE-2025-47967 ",
   },
-  {
-    name: "Dolor Sit Amet Prize",
-    issuer: "Ipsum Foundation",
-    date: "Feb 2021",
-    type: "National",
-    position: "Runner-up",
+ {
+    name: "Hall Of Fame",
+    issuer: "MicroSoft, Zoho Corp, Yandex, Techno SRC, Bitdefender,  DuckDuckGo, FireFox, Brave, Naver , Opera, The Browser Company, Metamask, Phantom, Coinbase",
   },
-  {
-    name: "Consectetur Hackathon",
-    issuer: "Adipiscing Org",
-    date: "Mar 2022",
-    type: "National",
-    position: "Winner",
-  },
-  {
-    name: "Vestibulum Event",
-    issuer: "Vestibulum College",
-    date: "Apr 2022",
-    type: "National",
-    position: "First Prize",
-  },
-  {
-    name: "Curabitur Hackfest",
-    issuer: "Curabitur Institute",
-    date: "May 2022",
-    type: "National",
-    position: "Second Prize",
-  },
-  {
-    name: "Praesent Hacks",
-    issuer: "Praesent Group",
-    date: "Jun 2022",
-    type: "National",
-    position: "Second Runner-up",
-  },
-  {
-    name: "Fusce Hack",
-    issuer: "Fusce Club",
-    date: "Jul 2022",
-    type: "National",
-    position: "Most Impactful Hack",
-  },
+
 ];

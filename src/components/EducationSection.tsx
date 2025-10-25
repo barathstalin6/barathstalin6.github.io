@@ -27,9 +27,6 @@ export default function EducationSection() {
               isLast={index === education.length - 1}
               index={index}
             >
-              <p className="text-sm text-muted-foreground mb-3">
-                📍 {edu.location}
-              </p>
 
               {edu.achievements && edu.achievements.length > 0 && (
                 <motion.div

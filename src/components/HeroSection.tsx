@@ -48,7 +48,7 @@ export default function HeroSection() {
               className="text-xl text-muted-foreground mb-6"
               variants={childVariants}
             >
-              Software Engineer 👨‍💻
+              Security Engineer 👨‍💻
             </motion.p>
 
             <motion.div
@@ -60,7 +60,6 @@ export default function HeroSection() {
                 variants={childVariants}
                 whileHover={{ scale: 1.05, color: "#4b5563" }}
               >
-                <MapPin className="h-4 w-4 mr-2" />
                 📍 {personalInfo.location}
               </motion.div>
 
@@ -70,7 +69,6 @@ export default function HeroSection() {
                 variants={childVariants}
                 whileHover={{ scale: 1.05, color: "#4b5563" }}
               >
-                <Mail className="h-4 w-4 mr-2" />
                 ✉️ {personalInfo.email}
               </motion.a>
 
@@ -82,8 +80,7 @@ export default function HeroSection() {
                 variants={childVariants}
                 whileHover={{ scale: 1.05, color: "#4b5563" }}
               >
-                <Github className="h-4 w-4 mr-2" />
-                🌟 GitHub
+                👨‍💻 Hackerone
               </motion.a>
 
               <motion.a
@@ -94,7 +91,7 @@ export default function HeroSection() {
                 variants={childVariants}
                 whileHover={{ scale: 1.05, color: "#4b5563" }}
               >
-                <Linkedin className="h-4 w-4 mr-2" />
+                
                 🔗 LinkedIn
               </motion.a>
             </motion.div>
