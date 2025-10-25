@@ -1,7 +1,7 @@
 export const personalInfo = {
   name: "Barath Stalin K",
   location: "Chennai",
-  email: "New@gmail.com",
+  email: "severustalin@yandex.com",
   github: "https://github.com/barathstalin6",
   linkedin: "https://linkedin.com/in/barathstalin",
   profilePicture: "/profile.jpg",
