@@ -53,12 +53,6 @@ export const education = [
     location: "Karaikudi",
     degree: "B.E Computer Science",
     period: "2020- 2024",
-    achievements: [
-      "President of Lorem Ipsum Club",
-      "Organized multiple lorem events",
-      "Represented university in national competitions.",
-      "Graduated with honors.",
-    ],
   },
 ];
 export const skills = {
@@ -68,52 +62,21 @@ export const skills = {
     "Java",
   ],
   frontendDevelopment: [
-    "LoremJS",
-    "IpsumJS",
-    "Dolor Native",
-    "Sit UI",
-    "Amet CSS",
-    "HTML",
-    "CSS",
   ],
   backendDevelopment: ["LoremNode", "IpsumExpress"],
   databaseAndStorage: ["LoremDB", "IpsumORM"],
   cloudAndDevOps: ["AWS"],
   toolsAndServices: [
-    "LoremAuth",
-    "IpsumCMS",
-    "DolorAnalytics",
-    "SitValidator",
-    "AmetMonitor",
-    "ConsecteturPanel",
-    "AdipiscingTrigger",
+    "BurpSuite",
+    "Tenable",
+    "Nuclei",
+    "ZAP",
+    "Nmap",
+    "CrowdStrike",
+    "ForcePoint",
   ],
 };
 
-export const projects = [
-  {
-    title: "Lorem Ipsum Project",
-    github: "https://github.com/loremipsum/project",
-    description: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
-      "Excepteur sint occaecat cupidatat non proident.",
-    ],
-  },
-  {
-    title: "Dolor Sit Amet App",
-    github: "https://github.com/loremipsum/dolorapp",
-    description: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
-      "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.",
-    ],
-  },
-];
 
 export const awards = [
   {
