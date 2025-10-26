@@ -40,10 +40,9 @@ export const workExperience = [
     position: "Security Analyst - Intern",
     period: "Oct 2021 - Jun 2023",
     achievements: [
-      " - Implemented Secure SDLC and launched a monthly Secure Coding Series for engineering teams.",
-      " - Integrated AI-based automation to enhance vulnerability research, trend analysis, and proactive threat detection.",
+      " - Performed comprehensive vulnerability assessments for POS and e-commerce applications, identifying and helping remediate approximately 85% of critical and high-severity vulnerabilities, strengthening overall product security posture.",
+      " - Contributed to building and managing the organization’s first internal bug bounty program, streamlining vulnerability intake and triage workflows.",
       " - Collaborated with developers to validate findings, implement patches, and improve secure coding practices within release cycles.",
-      " - Initiated and helped establish foundational Secure SDLC practices, developing security test cases and conducting awareness sessions for developers and QA teams.",
     ],
   },
 ];
