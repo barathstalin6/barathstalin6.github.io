@@ -17,7 +17,7 @@ export const workExperience = [
     period: "May 2024 - Present",
     achievements: [
       " - Performed comprehensive SAST, DAST, and manual penetration testing on fintech and POS applications, identifying and remediating critical production risks and reducing potential customer-impacting vulnerabilities.",
-      " - Implemented Threat Modeling (STRIDE) across the SDLC, establishing a structured workflow to validate every feature before production, improving release security compliance.",
+      " - Implemented Threat Modeling (STRIDE) across the SDLC, establishing a structured workflow to validate every feature before production, improving release security & compliance.",
       " - Led monthly Secure Coding Series and developer workshops, embedding secure-by-design principles into engineering culture and increasing secure coding adoption.",
       " - Collaborated with Application, Infrastructure, and Compliance teams to maintain alignment with PCI DSS, ISO 27001, RBI, and NPCI, ensuring consistent regulatory compliance in fintech environments.",
       " - Optimized SOC alert monitoring and escalation workflows, improving detection accuracy, accelerating response times, and enabling proactive mitigation of high-risk vulnerabilities.",
@@ -62,8 +62,8 @@ export const skills = {
   ],
   frontendDevelopment: [
   ],
-  backendDevelopment: ["LoremNode", "IpsumExpress"],
-  databaseAndStorage: ["LoremDB", "IpsumORM"],
+  backendDevelopment: ["", ""],
+  databaseAndStorage: ["", ""],
   cloudAndDevOps: ["AWS"],
   toolsAndServices: [
     "BurpSuite",
@@ -81,7 +81,7 @@ export const awards = [
   {
     name: "CVEs",
     issuer: "Microsoft",
-    date: "CVE-2025-29796, CVE-2025-47964 ,    CVE-2025-47967 ",
+    date: "CVE-2025-29796, CVE-2025-47964 , CVE-2025-47967 ",
   },
  {
     name: "Hall Of Fame",
