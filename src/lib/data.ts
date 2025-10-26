@@ -16,12 +16,11 @@ export const workExperience = [
     position: "Security Engineer",
     period: "May 2024 - Present",
     achievements: [
-      " - Strengthened application security through SAST, DAST, VAPT and Segmentation implementations.",
-      " - Coordinated with Compliance, Application, and Infrastructure teams to achieve alignment with RBI, PCI DSS, and ISO 27001 standards.",
-      " - Built the company’s Bug Bounty Program, managing submissions and triage with the internal security team.",
-      " - Coordinated with SOC and Infra teams to optimize alert rules, reduce false positives, and improve visibility.",
-      " - Managed SOC operations and endpoint monitoring with CrowdStrike,Forcepoint ensuring continuous threat visibility.",
-      " - Conducted vendor and merchant risk assessments using OSINT, assisting Risk Analysts in identifying potential compromise.",
+      " - Performed comprehensive SAST, DAST, and manual penetration testing on fintech and POS applications, identifying and remediating critical production risks and reducing potential customer-impacting vulnerabilities.",
+      " - Implemented Threat Modeling (STRIDE) across the SDLC, establishing a structured workflow to validate every feature before production, improving release security compliance.",
+      " - Led monthly Secure Coding Series and developer workshops, embedding secure-by-design principles into engineering culture and increasing secure coding adoption.",
+      " - Collaborated with Application, Infrastructure, and Compliance teams to maintain alignment with PCI DSS, ISO 27001, RBI, and NPCI, ensuring consistent regulatory compliance in fintech environments.",
+      " - Optimized SOC alert monitoring and escalation workflows, improving detection accuracy, accelerating response times, and enabling proactive mitigation of high-risk vulnerabilities.",
     ],
   },
   {
@@ -30,10 +29,9 @@ export const workExperience = [
     position: "Security Engineer - Intern",
     period: "July 2023 - May 2024",
     achievements: [
-      " - Implemented Secure SDLC and launched a monthly Secure Coding Series for engineering teams.",
-      " - Integrated AI-based automation to enhance vulnerability research, trend analysis, and proactive threat detection.",
-      " - Led phishing simulation drills and improved security culture across the organization.",
-
+      " - Automated Tenable vulnerability reporting using Python scripts for export and deduplication, reducing manual effort by over 60% and improving remediation accuracy.",
+      " - Collaborated with the Infrastructure team to validate vulnerability patches in Cardholder Data Environments (CDE) and ensure alignment with PCI DSS compliance requirements",
+      " - Conducted vulnerability discovery and risk analysis from a Red Team perspective, identifying gaps in PCI DSS controls, network segmentation, and application security.",
     ],
   },
   {
@@ -42,9 +40,10 @@ export const workExperience = [
     position: "Security Analyst - Intern",
     period: "Oct 2021 - Jun 2023",
     achievements: [
-      " - Automated Tenable vulnerability reports using Python to export, de-duplicate, and structure data for clarity.",
-      " - Conducted in-depth Vulnerability Assessments and Product Security Testing for POS and e-commerce platforms.",
-      " - Discovered and mitigated 500+ high and critical vulnerabilities, including zero-click account takeovers.",
+      " - Implemented Secure SDLC and launched a monthly Secure Coding Series for engineering teams.",
+      " - Integrated AI-based automation to enhance vulnerability research, trend analysis, and proactive threat detection.",
+      " - Collaborated with developers to validate findings, implement patches, and improve secure coding practices within release cycles.",
+      " - Initiated and helped establish foundational Secure SDLC practices, developing security test cases and conducting awareness sessions for developers and QA teams.",
     ],
   },
 ];
